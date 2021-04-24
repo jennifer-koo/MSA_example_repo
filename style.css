@@ -1,0 +1,15 @@
+p{
+    color: red; 
+}
+*{
+    font-family: "Times New Roman", Times, serif;
+    font-size: 24px;
+  }
+  h1 {
+    font-size: 32px;
+    color: white;
+    text-align: center;
+  }
+  body {
+    background-color: lightblue;
+  }
